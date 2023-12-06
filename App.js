@@ -4,7 +4,7 @@ import {View, Text, Image} from "react-native";
 export default function App() {
   return (
      <View style ={{ flex: 1, backgroundColor: "plum", padding:60}}> 
-          <Text>Hello Navya</Text>
+          <Text>Hello Navya these changes are in my branch</Text>
        
      </View>
      
